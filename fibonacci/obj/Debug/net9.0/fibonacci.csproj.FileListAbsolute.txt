@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\bin\Debug\net9.0\fibonacci.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\bin\Debug\net9.0\fibonacci.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\bin\Debug\net9.0\fibonacci.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\bin\Debug\net9.0\fibonacci.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\bin\Debug\net9.0\fibonacci.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\refint\fibonacci.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\fibonacci.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\fibonacci\obj\Debug\net9.0\ref\fibonacci.dll
