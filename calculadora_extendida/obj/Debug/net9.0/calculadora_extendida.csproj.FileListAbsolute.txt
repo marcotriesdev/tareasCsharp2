@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\bin\Debug\net9.0\calculadora_extendida.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\bin\Debug\net9.0\calculadora_extendida.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\bin\Debug\net9.0\calculadora_extendida.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\bin\Debug\net9.0\calculadora_extendida.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\bin\Debug\net9.0\calculadora_extendida.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\refint\calculadora_extendida.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\calculadora_extendida.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\calculadora_extendida\obj\Debug\net9.0\ref\calculadora_extendida.dll
