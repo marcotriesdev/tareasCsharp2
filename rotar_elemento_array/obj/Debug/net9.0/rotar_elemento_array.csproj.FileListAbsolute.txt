@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\bin\Debug\net9.0\rotar_elemento_array.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\bin\Debug\net9.0\rotar_elemento_array.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\bin\Debug\net9.0\rotar_elemento_array.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\bin\Debug\net9.0\rotar_elemento_array.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\bin\Debug\net9.0\rotar_elemento_array.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\refint\rotar_elemento_array.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\rotar_elemento_array.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\rotar_elemento_array\obj\Debug\net9.0\ref\rotar_elemento_array.dll

@@ -18,9 +18,10 @@ namespace clasificarTriangulos
 			side2 = float.Parse(Console.ReadLine());
 			side3 = float.Parse(Console.ReadLine());
 
+		//EVALUAR
 		if (esTrianguloValido(side1, side2, side3))
 		{
-			// Determinar el tipo de triángulo
+			
 			string tipo = tipoTriangulo(side1, side2, side3);
 			Console.WriteLine($"El triángulo es {tipo}.");
 		}
@@ -36,7 +37,7 @@ namespace clasificarTriangulos
 
 	static string tipoTriangulo(double a, double b, double c)
 	{
-		// Verificar el tipo de triángulo
+		
 		if (a == b && b == c)
 		{
 			return "equilátero";
