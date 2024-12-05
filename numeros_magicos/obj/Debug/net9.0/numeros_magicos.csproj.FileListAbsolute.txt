@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\bin\Debug\net9.0\numeros_magicos.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\bin\Debug\net9.0\numeros_magicos.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\bin\Debug\net9.0\numeros_magicos.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\bin\Debug\net9.0\numeros_magicos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\bin\Debug\net9.0\numeros_magicos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\refint\numeros_magicos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\numeros_magicos.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\numeros_magicos\obj\Debug\net9.0\ref\numeros_magicos.dll
