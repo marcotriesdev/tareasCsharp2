@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\bin\Debug\net9.0\menu interactivo.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\bin\Debug\net9.0\menu interactivo.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\bin\Debug\net9.0\menu interactivo.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\bin\Debug\net9.0\menu interactivo.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\bin\Debug\net9.0\menu interactivo.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\refint\menu interactivo.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\menu interactivo.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\menu interactivo\obj\Debug\net9.0\ref\menu interactivo.dll
