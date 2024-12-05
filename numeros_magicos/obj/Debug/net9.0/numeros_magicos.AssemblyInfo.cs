@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("numeros_magicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd5d59a6387232eea7993425cfd96002219fab82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02386c56e5443ae61cf2f24ef21a070b796e85b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("numeros_magicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("numeros_magicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

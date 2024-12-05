@@ -15,7 +15,7 @@ namespace MyNamespace
 			int numeroMagico = rand.Next(1,100);
 			
 
-			Console.WriteLine(numeroMagico);
+			//Console.WriteLine(numeroMagico);
 			int respuesta;
 			Console.WriteLine("¿Cual es el número?: ");
 			respuesta = int.Parse(Console.ReadLine());
