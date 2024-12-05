@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\bin\Debug\net9.0\calificaciones.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\bin\Debug\net9.0\calificaciones.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\bin\Debug\net9.0\calificaciones.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\bin\Debug\net9.0\calificaciones.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\bin\Debug\net9.0\calificaciones.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\refint\calificaciones.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\calificaciones.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\calificaciones\obj\Debug\net9.0\ref\calificaciones.dll
