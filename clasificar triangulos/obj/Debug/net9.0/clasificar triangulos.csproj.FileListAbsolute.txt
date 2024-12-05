@@ -1,0 +1,14 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\bin\Debug\net9.0\clasificar triangulos.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\bin\Debug\net9.0\clasificar triangulos.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\bin\Debug\net9.0\clasificar triangulos.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\bin\Debug\net9.0\clasificar triangulos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\bin\Debug\net9.0\clasificar triangulos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\refint\clasificar triangulos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\clasificar triangulos.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\clasificar triangulos\obj\Debug\net9.0\ref\clasificar triangulos.dll
