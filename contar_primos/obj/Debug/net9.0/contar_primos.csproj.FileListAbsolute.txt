@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\bin\Debug\net9.0\contar_primos.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\bin\Debug\net9.0\contar_primos.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\bin\Debug\net9.0\contar_primos.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\bin\Debug\net9.0\contar_primos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\bin\Debug\net9.0\contar_primos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\refint\contar_primos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\contar_primos.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\contar_primos\obj\Debug\net9.0\ref\contar_primos.dll
