@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\bin\Debug\net9.0\impuestos.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\bin\Debug\net9.0\impuestos.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\bin\Debug\net9.0\impuestos.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\bin\Debug\net9.0\impuestos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\bin\Debug\net9.0\impuestos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\refint\impuestos.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\impuestos.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\impuestos\obj\Debug\net9.0\ref\impuestos.dll
