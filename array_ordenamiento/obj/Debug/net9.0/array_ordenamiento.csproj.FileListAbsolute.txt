@@ -1,0 +1,15 @@
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\bin\Debug\net9.0\array_ordenamiento.exe
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\bin\Debug\net9.0\array_ordenamiento.deps.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\bin\Debug\net9.0\array_ordenamiento.runtimeconfig.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\bin\Debug\net9.0\array_ordenamiento.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\bin\Debug\net9.0\array_ordenamiento.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.AssemblyInfo.cs
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.sourcelink.json
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\refint\array_ordenamiento.dll
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.pdb
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\array_ordenamiento.genruntimeconfig.cache
+c:\Users\curdi\Documents\net proyects\segunda tarea\array_ordenamiento\obj\Debug\net9.0\ref\array_ordenamiento.dll
